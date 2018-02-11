@@ -17,13 +17,13 @@ public class ScreenOffAdminReceiver extends DeviceAdminReceiver {
 	@Override
 	public void onEnabled(Context context, Intent intent) {
 		showToast(context,
-				"设备管理器使能");
+				"设备管理器使用");
 	}
 
 	@Override
 	public void onDisabled(Context context, Intent intent) {
 		showToast(context,
-				"设备管理器没有使能");
+				"设备管理器没有使用");
 	}
 
 }
