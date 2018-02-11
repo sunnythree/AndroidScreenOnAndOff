@@ -3,7 +3,12 @@
 
     <uses-policies>
 
+        <limit-password />
+        <watch-login />
+        <reset-password />
         <force-lock />
+        <wipe-data />
+
     </uses-policies>
 
 </device-admin>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ScreenOff</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_device_admin_description">此应用用于锁屏</string><!-- 见图一 -->
+    <string name="sample_device_admin">锁屏</string><!-- 见图一 -->
+
 </resources>
